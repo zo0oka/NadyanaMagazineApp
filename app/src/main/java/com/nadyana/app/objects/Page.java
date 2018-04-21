@@ -36,7 +36,4 @@ public class Page {
         mPageLink = link;
     }
 
-    public void setFeaturedMediaUrl(String featuredMediaUrl){
-        mFeaturedMediaUrl = featuredMediaUrl;
-    }
 }

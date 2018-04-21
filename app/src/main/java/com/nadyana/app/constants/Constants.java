@@ -2,7 +2,7 @@ package com.nadyana.app.constants;
 
 public class Constants {
 
-    public static final String recent_posts_url = "http://www.nadyana.com/wp-json/wp/v2/posts/filter[category_name]=app&per_page=100&fields=id,link,title.rendered,better_featured_image.source_url";
+    public static final String recent_posts_url = "http://www.nadyana.com/wp-json/wp/v2/posts/?filter[category_name]=app&per_page=100&fields=id,link,title.rendered,better_featured_image.source_url";
 
     public static final String categories_list_url = "http://www.nadyana.com/wp-json/wp/v2/categories?fields=id,name";
 

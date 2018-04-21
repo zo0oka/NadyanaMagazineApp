@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Nadyana Magazine</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_single_post">SinglePost</string>
+    <string name="title_activity_pages">Pages</string>
+    <string name="title_activity_categories">Categories</string>
 </resources>
